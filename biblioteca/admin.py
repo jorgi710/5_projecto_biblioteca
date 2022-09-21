@@ -5,5 +5,4 @@ admin.site.register(Autor)
 admin.site.register(Libro)
 
 
-
 # Register your models here.
